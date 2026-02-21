@@ -63,13 +63,11 @@ END
 
 
 #### Manual Calculations
-
 <img width="1378" height="1057" alt="545436153-01c09a3f-c20c-40e5-b1f6-0911332b26d8" src="https://github.com/user-attachments/assets/2f4dee3f-cd01-4106-96cf-0dc515fe2c5b" />
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-
 <img width="642" height="433" alt="image" src="https://github.com/user-attachments/assets/c97ffd85-4b51-4973-9831-656169887928" />
 
 
@@ -84,7 +82,6 @@ END
 5. Store result.
 
 ## FLOWCHART
-
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
 
 
@@ -120,7 +117,6 @@ END
 |   1203      :    34     |                          |
 
 #### Manual Calculations
-
 <img width="1600" height="900" alt="545439937-54950607-903a-4a72-9f58-aa7243029edf" src="https://github.com/user-attachments/assets/46ac8808-333a-491f-8f57-ce54f616023a" />
 
 ---
@@ -138,7 +134,6 @@ END
 4. Store result.
 
 ##FLOWCHART
-
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
 
 
@@ -172,7 +167,6 @@ END
 |   1203      :    34     |   1207         :    0A   |
 
 #### Manual Calculations
-
 <img width="1559" height="1047" alt="545440298-8cfcb9c0-2aa5-4551-baf4-46a966635f8f" src="https://github.com/user-attachments/assets/293ceaa4-fd39-4864-a73b-72c1f33b2785" />
 
 ---
@@ -228,7 +222,6 @@ END
 ---
 
 ## OUTPUT FROM MASM SOFTWARE
-
 <img width="642" height="433" alt="image" src="https://github.com/user-attachments/assets/438fa20c-9d37-4d39-bb78-6a8352bf6ced" />
 
 
